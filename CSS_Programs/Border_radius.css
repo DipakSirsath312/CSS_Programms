@@ -1,0 +1,25 @@
+#div1{
+    width: 23px;
+    height: 23px;
+    text-align: center;
+    color:white;
+    background-color:black;
+    border: 1px solid darkorange;
+    border-radius: 50px;  
+}
+#div2{
+    width: 37px;
+    color: white;
+    background-color: black;
+    border: 1px solid darkorange;
+    border-radius: 5px;
+}
+#div3{
+    width: 30px;
+    height: 20px;
+    text-align: center;
+    background-color: black;
+    color:white;
+    border:1px solid darkorange;
+    border-radius: 50px;
+}

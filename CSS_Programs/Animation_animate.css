@@ -1,0 +1,19 @@
+.animate{
+    height: 100px;
+    width: 100px;
+    background-color: aqua;
+    border-radius: 50%;
+    position: relative;
+    left: 650px;
+    animation-name: colorAnimate;
+    animation-duration: 3s;
+    animation-timing-function:ease-in;
+    animation-delay: 0s;
+    animation-iteration-count:infinite;
+    animation-direction:alternate;
+    /* animation: colorAnimate 2s ease-in-out 0s infinite alternate; Animation shorthand */
+}
+@keyframes colorAnimate{
+    from{top:1px}
+    to{top: 600px}
+}

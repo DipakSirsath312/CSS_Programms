@@ -1,0 +1,12 @@
+#outer{
+    font-size: 25px;
+    width: 130px;
+    height:30px;
+    background-color: burlywood;
+    
+}
+#inner{
+    font-size: 10px;
+    background-color: aqua;
+    width: 55px;
+}

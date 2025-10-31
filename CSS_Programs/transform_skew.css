@@ -1,0 +1,16 @@
+.skew{
+    height:100px;
+    width: 100px;
+    background-color:violet;
+    position: relative;
+    top: 250px;
+    left: 650px;
+    transition: all 1s ease-in;
+}
+.skew:hover{
+    
+    background-color: olive;
+    transform: skewX(80deg);
+    transform:skewY(80deg);
+    transform: skew(85deg);
+}

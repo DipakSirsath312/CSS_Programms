@@ -1,0 +1,18 @@
+div{
+    height: 100px;
+    width: 100px;
+    display:inline-block;
+}
+#b1{
+    background-color: chartreuse;
+}
+#b2{
+    height: 350px;
+    width: 450px;
+    background-color: violet;
+    background-image:url("wp12832263-pain-naruto-pc-wallpapers.jpg");
+    background-size: cover;
+}
+#b3{
+    background-color: cadetblue;
+}

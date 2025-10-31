@@ -1,0 +1,36 @@
+body{
+    text-align: center;
+}
+#container{
+    border: 2px solid black;
+    height: 500px;
+    width: 400px;
+    display: flex;
+    flex-direction: row;
+    justify-content:  center;
+    flex-wrap: wrap;
+    align-items:flex-start;
+}
+div{
+    height: 100px;
+    width: 100px;
+    border-radius: 10px;
+    border: 2px solid black;
+}
+#box1{
+    background-color: violet;
+}
+#box2{
+    background-color: yellowgreen;
+    align-self:flex-end;
+}
+#box3{
+    background-color: turquoise;
+}
+#box4{
+    background-color: chocolate;
+}
+#box5{
+    background-color: slateblue;
+}
+

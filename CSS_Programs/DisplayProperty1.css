@@ -1,0 +1,35 @@
+#b1{
+    height: 100px;
+    width: 100px;
+    background-color: skyblue;
+    margin: 25px;
+    padding: 25px;
+    display: inline;
+}
+#b2{
+    height: 100px;
+    width: 100px;
+    background-color:rosybrown;
+    margin: 25px;
+    padding: 25px;
+    display: inline;
+}
+#b3{
+    height: 100px;
+    width: 100px;
+    background-color:plum;
+    margin: 25px;
+    padding: 25px;
+    display: inline;
+}
+#b4{
+    height: 100px;
+    width: 100px;
+    background-color:tan;
+    margin: 25px;
+    padding: 25px;
+    display: inline-block;  /* This style inline-block property and you apply the margin & Padding */ 
+}
+#b2{
+    display: none; /* remove the box2 and you can use visibility:hidden */
+}

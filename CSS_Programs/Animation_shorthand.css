@@ -1,0 +1,19 @@
+.container{
+    height: 100px;
+    width: 100px;
+    background-color: seagreen;
+    border: 2px solid black;
+    border-radius: 50%;
+    position: relative;
+    left: 650px;
+    animation: shorthand 3s ease-in-out 0s infinite alternate; /* Animation shorthand */
+}
+@keyframes shorthand{
+    from{
+        left: 1px;
+        background-color: red;
+    }
+    to{left: 650px;
+        background-color:yellow;
+    }
+}

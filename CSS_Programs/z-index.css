@@ -1,0 +1,30 @@
+div{
+    height: 100px;
+    width: 100px;
+    background-color:peru;
+    display: inline-block;
+}
+#Box1{
+    background-color: aqua;
+    position: static;
+}
+#Box2{
+    background-color:yellowgreen;
+    position:relative;
+    top:100px;
+    left:30px;
+    z-index: -1;
+}
+#Box3{
+    background-color: violet;
+    position:absolute;
+    top:160px;
+    z-index: 8;
+}
+#Box4{
+    background-color:olivedrab;
+    position:fixed;
+    top:50px;
+    left:80px;
+    z-index: 2;
+}

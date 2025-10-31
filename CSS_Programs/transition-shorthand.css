@@ -1,0 +1,14 @@
+div{
+    height: 100px;
+    width: 100px;
+    background-color: aqua;
+    border: 2px solid black;
+    border-radius: 15px;
+    transition:all 1s ease-out 2s;
+}
+div:hover{
+    background-color: pink;
+}
+div:active{
+    background-color:yellow;
+}

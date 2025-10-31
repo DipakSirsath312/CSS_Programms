@@ -1,0 +1,38 @@
+#B1{
+    height: 100px;
+    width: 100px;
+    background-color:peachpuff;
+    border: 2px solid black;
+    display:inline-block;
+    position:static;
+}
+#B2{
+    height: 100px;
+    width: 100px;
+    background-color:plum;
+    border: 2px solid black;
+    display:inline-block;
+    position:relative;
+    top:200px;
+    left:200px;
+}
+#B3{
+    height: 100px;
+    width: 100px;
+    background-color: violet;
+    border: 2px solid black;
+    display:inline-block;
+    position:absolute;
+    top:50px;
+    right:30px;
+}
+#B4{
+    height: 100px;
+    width: 100px;
+    background-color: tan;
+    border: 2px solid black;
+    display:inline-block;
+    position:fixed;
+    right:30px;
+    bottom:20px ;
+} 

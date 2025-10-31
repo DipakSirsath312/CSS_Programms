@@ -1,0 +1,37 @@
+body{
+    text-align: center;
+}
+#container{
+    height: 400px;
+    width : 200px;
+    border : 2px solid black;
+    border-radius: 10px;
+    display:flex;
+    flex-direction: column-reverse;
+    flex-wrap: nowrap;
+}
+div{
+    width: 40px;
+    height: 40px;
+    border: 2px solid black;
+    border-radius: 6px;
+    display: inline-block;
+}
+#box1{
+    background-color: yellowgreen;
+}
+#box2{
+    background-color: darkcyan;
+}
+#box3{
+    background-color: violet;
+}
+#box4{
+    background-color: sandybrown;
+}
+#box5{
+    background-color: tomato;
+}
+#box6{
+    background-color: yellow;
+}

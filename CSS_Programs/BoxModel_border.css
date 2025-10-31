@@ -1,0 +1,22 @@
+#d1{
+    width: 70px;
+    background-color:cadetblue;
+    border-width:3px;
+    border-style:solid;
+    border-color:black;
+}
+#d2{
+    width: 60px;
+    background-color:blue;
+    border-width:2px;
+    border-style:dotted;
+    border-color:darkred;
+}
+#d3{
+    width: 70px;
+    text-align: center;
+    background-color:aqua;
+    border-width :2px;
+    border-style:dashed;
+    border-color:darkorange
+}

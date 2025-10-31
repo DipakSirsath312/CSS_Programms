@@ -1,0 +1,10 @@
+div{
+    display: inline;
+    background-color: black;
+    color:darkorange;
+    /*  Create a inline div  */
+}
+#b1{
+    display: block;
+    /* Create a block button */
+}

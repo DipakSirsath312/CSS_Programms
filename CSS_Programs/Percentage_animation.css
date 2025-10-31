@@ -1,0 +1,27 @@
+.container{
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    position: absolute;
+    
+    top: 250px;
+    animation: ColorAnimation 3s ease-in-out 0s infinite alternate;
+    
+}
+@keyframes ColorAnimation{
+    0%{
+        background-color: red;
+        top :1px;
+        left: 100px;
+    }
+    45%{
+        background-color: blue;
+        
+    }
+    100%{
+        background-color: darkgreen;
+        top: 400px;
+        left: 100px;
+    }
+
+}

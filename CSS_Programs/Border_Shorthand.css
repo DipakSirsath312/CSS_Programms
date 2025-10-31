@@ -1,0 +1,7 @@
+div{
+    width: 70px;
+    color: aliceblue;
+    background-color:black;
+    border: 3px dashed yellowgreen; /*Shorthand*/
+     
+}

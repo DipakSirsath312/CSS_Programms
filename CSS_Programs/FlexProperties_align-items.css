@@ -1,0 +1,36 @@
+body{
+    text-align: center;
+}
+#container{
+    height: 400px;
+    width: 300px;
+    border: 2px solid black;
+    border-radius: 8px;
+    display:flex;
+    flex-direction:column-reverse;
+    align-items:center;
+}
+div{
+    height: 100px;
+    width: 100px;
+    border: 2px solid black;
+    border-radius: 4px;
+    display: inline-block;
+}
+#box1{
+    background-color: orange;
+}
+#box2{
+    background-color: brown;
+    width:70px;
+    height: 70px;
+}
+#box3{
+    background-color:yellowgreen;
+    height:150px;
+    width:100px;
+}
+#box4{
+    background-color: blue;
+}
+

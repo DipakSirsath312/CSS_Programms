@@ -1,0 +1,13 @@
+.parent{
+    height: 150px;
+    width: 150px;
+    background-color: yellowgreen;
+    position: relative;
+    top: 200px;
+    left: 650px;
+    transition: all 1s ease-in;
+}
+.parent:hover{
+    transform: scaleY(0.5);
+    background-color: violet;
+}

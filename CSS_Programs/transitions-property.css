@@ -1,0 +1,22 @@
+div{
+    height: 75px;
+    width: 75px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: aqua;
+    border-radius: 15px;
+    transition-property: all;
+    transition-duration: 2s;
+    transition-timing-function:steps(2s);
+    transition-delay: 2s;
+}
+div:hover{
+    background-color: blue;
+    color: white;
+    font-size: 30px;
+}
+div:active{
+    background-color: pink;
+    color: black;
+}
